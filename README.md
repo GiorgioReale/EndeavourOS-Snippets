@@ -23,7 +23,7 @@ sudo pacman -S chromium firefox code bitwarden docker docker-compose cups cups-p
 ```
 
 ```shell
-yay -S microsoft-edge-stable-bin skypeforlinux-stable-bin authy onlyoffice-bin ulauncher cpufetch gpufetch-git zsh-theme-powerlevel10k-git ttf-meslo-nerd-font-powerlevel10k epson-inkjet-printer-escpr epsonscan2
+yay -S microsoft-edge-stable-bin skypeforlinux-stable-bin authy onlyoffice-bin ulauncher cpufetch gpufetch-git zsh-theme-powerlevel10k-git ttf-meslo-nerd-font-powerlevel10k epson-inkjet-printer-escpr epsonscan2 epson-inkjet-printer-escpr2
 ```
 
 
